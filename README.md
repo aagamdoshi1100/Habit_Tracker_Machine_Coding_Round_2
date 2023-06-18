@@ -1,2 +1,4 @@
-# Habit_Tracker_Machine_Coding_Round_2
-Created with CodeSandbox
+#Machine Coding Round Two 
+##Habit Tracker
+
+The goal of this assignment is to create a prototype of a habit tracker app using React JS.
